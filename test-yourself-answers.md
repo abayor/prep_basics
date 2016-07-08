@@ -56,8 +56,7 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 #### Where are the closest developer communities to you?
 
-Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
-
+At my end here in Africa there is no meetups. i'm thinking of starting one for Ruby Developers
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
 #### What online developer communities can you join?
@@ -106,7 +105,9 @@ To apply for a job, you'll have to submit a resume, cover letter, links to your 
 
 
 ## How the Web Works
-
+Computers connected to the Web are called clients and servers.
+Clients are the typical Web user's Internet-connected devices (for example, your computer connected to your Wi-Fi, or your phone connected to your mobile network) and Web-accessing software available on those devices (usually a web browser like Firefox or Chrome).
+Servers are computers that store webpages, sites, or apps. When a client device wants to access a webpage, a copy of the webpage is downloaded from the server onto the client machine to be displayed in the user's web browser.
 
 #### What is the internet?
 
@@ -334,6 +335,7 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
+The Web, or World Wide Web, is basically a system of Internet servers that support specially formatted documents. The documents are formatted in a markup language called HTML (HyperText Markup Language) that supports links to other documents, as well as graphics, audio, and video files.
 
 
 #### URL( Uniform Resource Locator)
@@ -568,6 +570,7 @@ Ruby is the most enjoyable language on earth. Easy and happy to code.
 
 Ruby is a dynamic, object-oriented programming language. Created by Yukihiro "Matz" Matsumoto who has said that "The goal of Ruby is to make programmers happy".
 
+Ruby is aimed at making developers happy
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
 
@@ -647,7 +650,7 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+*a representation of a plan or theory in the form of an outline or model.*
 
 #### Script
 
@@ -733,6 +736,8 @@ Using Git allows a team of developers to independently work alongside one anothe
 
 To create a Git repository locally, you want to navigate to the root directory of your project and type 'git init'. This will initialize a local repository and load all of the necessary files git will need to track the files in that directory.
 
+using the commandline --git init
+
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
 #### How do you create it on Github?
@@ -751,7 +756,8 @@ The other way is typing a git commit -am "Your message", which will both stage a
 #### What is the difference between staging and committing changes?
 
 Staging is moving files from Modified to Staged by issuing a git command, "git add your_file", "git add . ", or "git add -A". Committing is moving files from Staged to Unmodified.
-
+ 
+ to do staging and commit all at ones the syntax ---- git commit -am "Your commmit"
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
 
